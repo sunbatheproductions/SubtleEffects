@@ -18,6 +18,7 @@ public class SubtleEffects {
         ModSounds.init();
         ModPayloads.init();
         ModParticles.init();
+        ModTags.init();
         ColorProviderType.init();
     }
 
